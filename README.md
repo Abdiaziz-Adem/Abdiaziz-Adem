@@ -2,6 +2,8 @@
 
 I build web applications and AI automations, and I have learned Flutter. My next focus is building mobile apps with Flutter and Dart.
 
+[LinkedIn](https://www.linkedin.com/in/abdiaziz-adem-202900412)
+
 [Featured project](https://github.com/Abdiaziz-Adem/Xogtamar-ai-showcase) · [Interface demo](https://xogtamar-ai.netlify.app/) · [Ask Nafiis](https://github.com/Abdiaziz-Adem/ask-nafiis)
 
 ## Selected work
