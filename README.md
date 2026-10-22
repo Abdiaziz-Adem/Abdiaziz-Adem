@@ -2,7 +2,7 @@
 
 I build practical web applications and experiment with local AI and workflow automation. My current work connects spreadsheet data, deterministic Python calculations, and clear interfaces.
 
-[Featured project](https://github.com/Abdiaziz-Adem/Xogtamar-ai-showcase) · [Interface demo](https://xogtamar-ai.netlify.app/) · [AI chatbot workflow](https://github.com/Abdiaziz-Adem/n8n-ai-chatbot)
+[Featured project](https://github.com/Abdiaziz-Adem/Xogtamar-ai-showcase) · [Interface demo](https://xogtamar-ai.netlify.app/) · [Ask Nafiis](https://github.com/Abdiaziz-Adem/ask-nafiis)
 
 ## Selected work
 
@@ -17,14 +17,14 @@ A local application for understanding solar, electrical, and general spreadsheet
 
 [Explore the showcase](https://github.com/Abdiaziz-Adem/Xogtamar-ai-showcase) · [Try the interface demo](https://xogtamar-ai.netlify.app/)
 
-### Local AI chatbot — n8n and Ollama
+### Ask Nafiis — hotel AI assistant
 
-A reusable n8n workflow connecting a chat trigger, a local Ollama model, and short conversation memory. The repository includes setup instructions and an optional Next.js integration kit.
+The guest-facing chatbot integration for our hotel management system. It combines an Ask Nafiis chat widget and public-data answer modules with a reusable n8n/Ollama workflow and short conversation memory.
 
 - **Focus:** Local model integration, workflow configuration, and a clear boundary between chat responses and external actions.
 - **Status:** Importable workflow and source samples; running it requires your own n8n and Ollama installation.
 
-[Explore the chatbot](https://github.com/Abdiaziz-Adem/n8n-ai-chatbot)
+[Explore Ask Nafiis](https://github.com/Abdiaziz-Adem/ask-nafiis)
 
 ## Tools used in these projects
 
