@@ -1,6 +1,4 @@
-# Abdiaziz Adem
-
-**Web applications · Data tools · AI automation**
+![Abdiaziz Adem — web applications, data tools, and AI automation](assets/banner.svg)
 
 I build practical web applications and experiment with local AI and workflow automation. My current work connects spreadsheet data, deterministic Python calculations, and clear interfaces.
 
