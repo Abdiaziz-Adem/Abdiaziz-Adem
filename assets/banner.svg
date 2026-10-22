@@ -1,14 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
   <title id="title">Abdiaziz Adem</title>
-  <desc id="desc">Web applications, data tools, and AI automation.</desc>
+  <desc id="desc">Web and mobile apps, Flutter, and AI automation.</desc>
   <rect width="1200" height="260" rx="16" fill="#0d1714"/>
   <path d="M0 242H1200" stroke="#244538"/>
   <rect x="50" y="46" width="38" height="4" rx="2" fill="#59dba6"/>
   <text x="50" y="122" fill="#f1f8f4" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5">Abdiaziz Adem</text>
-  <text x="53" y="168" fill="#a9c4b8" font-family="Segoe UI,Arial,sans-serif" font-size="22">Web applications · Data tools · AI automation</text>
+  <text x="53" y="168" fill="#a9c4b8" font-family="Segoe UI,Arial,sans-serif" font-size="22">Web &amp; Mobile Apps · Flutter · AI Automation</text>
   <g fill="none" stroke="#59dba6" stroke-width="2">
     <rect x="964" y="54" width="162" height="144" rx="12" stroke="#254d3d"/>
-    <path d="M994 157V130M1024 157V109M1054 157V92M1084 157V72" stroke-width="7" stroke-linecap="round"/>
-    <path d="M994 174H1086" stroke="#486e5c"/>
+    <rect x="1011" y="71" width="68" height="112" rx="11"/>
+    <path d="M1034 82H1056M1023 99H1067M1023 112H1055" stroke-linecap="round"/>
+    <circle cx="1045" cy="170" r="3" fill="#59dba6" stroke="none"/>
   </g>
 </svg>
