@@ -1,0 +1,47 @@
+# Abdiaziz Adem
+
+**Web applications · Data tools · AI automation**
+
+I build practical web applications and experiment with local AI and workflow automation. My current work connects spreadsheet data, deterministic Python calculations, and clear interfaces.
+
+[Featured project](https://github.com/Abdiaziz-Adem/Xogtamar-ai-showcase) · [Interface demo](https://xogtamar-ai.netlify.app/) · [AI chatbot workflow](https://github.com/Abdiaziz-Adem/n8n-ai-chatbot)
+
+## Selected work
+
+### XogTamar AI — spreadsheet analytics
+
+A local application for understanding solar, electrical, and general spreadsheet data. It combines a Next.js interface with FastAPI and Pandas calculations, chart choices, and Excel reports.
+
+- **Problem:** Turn raw spreadsheet measurements into understandable results without inventing numerical answers.
+- **Approach:** Validate files, calculate with Python, disclose missing data, and let the user choose a chart. Optional Ollama translates questions into supported analysis plans.
+- **Public evidence:** Selected Python and React code, synthetic fixtures, a runnable calculation example, regression checks, and architecture notes.
+- **Status:** The public website is a synthetic-data interface demo. Uploads and live AI inference are available in the complete local project, not on that website.
+
+[Explore the showcase](https://github.com/Abdiaziz-Adem/Xogtamar-ai-showcase) · [Try the interface demo](https://xogtamar-ai.netlify.app/)
+
+### Local AI chatbot — n8n and Ollama
+
+A reusable n8n workflow connecting a chat trigger, a local Ollama model, and short conversation memory. The repository includes setup instructions and an optional Next.js integration kit.
+
+- **Focus:** Local model integration, workflow configuration, and a clear boundary between chat responses and external actions.
+- **Status:** Importable workflow and source samples; running it requires your own n8n and Ollama installation.
+
+[Explore the chatbot](https://github.com/Abdiaziz-Adem/n8n-ai-chatbot)
+
+## Tools used in these projects
+
+| Area | Tools |
+| --- | --- |
+| Interfaces | Next.js, React, TypeScript, Tailwind CSS |
+| APIs and analysis | Python, FastAPI, Pandas, OpenPyXL |
+| Data persistence | PostgreSQL, SQLite |
+| AI and automation | Ollama, n8n |
+| Development and deployment | Git, GitHub, Docker Compose, Netlify |
+
+## What I am developing next
+
+I am strengthening my skills in backend design, testing, deployment, and reliable automation. I use AI coding tools during development and document the scope and limitations of each project.
+
+## Explore my work
+
+Start with the two featured repositories above for runnable examples and implementation details. Other repositories may include learning material or community resources; their original attribution is retained.
