@@ -1,6 +1,6 @@
-![Abdiaziz Adem — web applications, data tools, and AI automation](assets/banner.svg)
+![Abdiaziz Adem — web and mobile apps, Flutter, and AI automation](assets/banner.svg)
 
-I build practical web applications and experiment with local AI and workflow automation. My current work connects spreadsheet data, deterministic Python calculations, and clear interfaces.
+I build web applications and AI automations, and I have learned Flutter. My next focus is building mobile apps with Flutter and Dart.
 
 [Featured project](https://github.com/Abdiaziz-Adem/Xogtamar-ai-showcase) · [Interface demo](https://xogtamar-ai.netlify.app/) · [Ask Nafiis](https://github.com/Abdiaziz-Adem/ask-nafiis)
 
@@ -26,11 +26,12 @@ The guest-facing chatbot integration for our hotel management system. It combine
 
 [Explore Ask Nafiis](https://github.com/Abdiaziz-Adem/ask-nafiis)
 
-## Tools used in these projects
+## Technologies and current focus
 
 | Area | Tools |
 | --- | --- |
-| Interfaces | Next.js, React, TypeScript, Tailwind CSS |
+| Mobile development — next focus | Flutter, Dart |
+| Web interfaces | Next.js, React, TypeScript, Tailwind CSS |
 | APIs and analysis | Python, FastAPI, Pandas, OpenPyXL |
 | Data persistence | PostgreSQL, SQLite |
 | AI and automation | Ollama, n8n |
@@ -38,7 +39,7 @@ The guest-facing chatbot integration for our hotel management system. It combine
 
 ## What I am developing next
 
-I am strengthening my skills in backend design, testing, deployment, and reliable automation. I use AI coding tools during development and document the scope and limitations of each project.
+My next project will be a mobile app built with Flutter. I am focusing on app interfaces, navigation, state management, and connecting apps to backend services. I use AI coding tools during development and document the scope and limitations of each project.
 
 ## Explore my work
 
